@@ -1,0 +1,23 @@
+/Volumes/NO NAME/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.csproj.AssemblyReference.cache
+/Volumes/NO NAME/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/NO NAME/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.AssemblyInfoInputs.cache
+/Volumes/NO NAME/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.AssemblyInfo.cs
+/Volumes/NO NAME/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.csproj.CoreCompileInputs.cache
+/Volumes/NO NAME/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.dll
+/Volumes/NO NAME/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.pdb
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/bin/Debug/net5.0/Boyer–Moore.deps.json
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/bin/Debug/net5.0/Boyer–Moore.runtimeconfig.json
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/bin/Debug/net5.0/Boyer–Moore.runtimeconfig.dev.json
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/bin/Debug/net5.0/Boyer–Moore.dll
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/bin/Debug/net5.0/Boyer–Moore.pdb
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.csproj.AssemblyReference.cache
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.AssemblyInfoInputs.cache
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.AssemblyInfo.cs
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.csproj.CoreCompileInputs.cache
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.dll
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/ref/Boyer–Moore.dll
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.pdb
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/Boyer–Moore.genruntimeconfig.cache
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/bin/Debug/net5.0/Boyer–Moore
+/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/obj/Debug/net5.0/refint/Boyer–Moore.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mMmIyK6IWxGOOFEssDz7M/HUj0PWT1RBru64HAUKZHWB7mZVo4zlLb8S0+B2xGAnZVp3X1T+yFs/otH8CknEAQ==",
+  "success": true,
+  "projectFilePath": "/Users/dmitrijdzioev/Desktop/Boyer–Moore/Boyer–Moore/Boyer–Moore.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmitrijdzioev/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/dmitrijdzioev/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.15/microsoft.netcore.app.host.osx-x64.5.0.15.nupkg.sha512",
+    "/Users/dmitrijdzioev/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

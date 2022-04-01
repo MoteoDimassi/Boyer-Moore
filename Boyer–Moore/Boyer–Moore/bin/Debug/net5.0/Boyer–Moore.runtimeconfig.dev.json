@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/dmitrijdzioev/.dotnet/store/|arch|/|tfm|",
+      "/Users/dmitrijdzioev/.nuget/packages"
+    ]
+  }
+}
